@@ -1,7 +1,7 @@
 function ventanaSecundaria(){
  t=12;
  timer=window.setInterval("contador()",1000);
-   pop=window.open("http://ouo.io/7ckLUM","ventana1","width=480,height=325,scrollbars=0")
+   pop=window.open("http://ouo.io/Gz2ggF","ventana1","width=480,height=325,scrollbars=0")
 }
 function contador(){
   if(pop!=null){
